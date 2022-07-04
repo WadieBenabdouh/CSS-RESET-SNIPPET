@@ -1,11 +1,10 @@
 
 ![images](https://user-images.githubusercontent.com/82994425/177222675-8365cfbc-858c-4573-be60-240f7728f229.jpg)
 
-
-# CSS-RESET-SNIPPET
+<h1>CSS-RESET-SNIPPET</h1>
 This is a CSS Snippet for the famous three lines of resetting the layout (removing extra padding, margin and box-sizing)
 
-<h1>INSTRUCTIONS</h1>
+<h2>INSTRUCTIONS</h2>
 <ol>
 <li><p>Start by opening the Command Palette Ctrl + Shift + P and enter <code>Preferences: Configure User Snippets</code></p></li>
 
