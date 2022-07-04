@@ -12,11 +12,10 @@ This is a CSS Snippet for the famous three lines of resetting the layout (removi
 
 <li>
   <ul>
-    <li><b><i>USE IT LIKE THIS!<i><b></li>
+    <li><b><i>USE IT LIKE THIS!</i></b></li>
     <p>On your CSS page, type <code>CSSRESET</code>, then hit <code>TAB</code></p>
   </ul>
 </li>
+</ol>
 
 <h4>That's all, thanks for using my snippet</h4>
-
-
