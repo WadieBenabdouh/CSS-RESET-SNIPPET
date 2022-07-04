@@ -1,0 +1,13 @@
+{
+	"CSSRESET": {
+	  "prefix": "CSSRESET",
+	  "body": [
+		"*{", 
+		"margin:0;",
+		"padding:0;",
+		"box-sizing: border-box;",
+		"}"
+	  ],
+	  "description": "CSS Reset Snippet"
+	}
+  }
